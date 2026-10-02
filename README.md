@@ -29,23 +29,6 @@
 
 ---
 
-<div align="center">
-
-### 📊 Dashboard
-
-| Stats | Streak |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=tonistark7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github) | ![Streak](https://streak-stats.demolab.com?user=tonistark7&theme=tokyonight&hide_border=true) |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonistark7&layout=donut&theme=tokyonight&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=tonistark7&theme=tokyonight&no-frame=true&row=1&column=6)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonistark7&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 <details>
 <summary><b>📱 System Engineering</b></summary>
 <br>
